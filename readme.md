@@ -1,4 +1,4 @@
-<h1>AWS CLOUD STUDY GUIDE</h1>
+<h1>AWS CLOUD STUDY GUIDE INTRODUCTION</h1>
 
 <h3>Cloud Concepts</h3>
 
@@ -23,32 +23,10 @@
     </li>
     <li><p><b>Cloud Computing Deployment Models<b></p>
         <br/>
-        <p></p>
+        <p>1. Cloud. Fully utilizing cloud computing. Great for start-ups, low cost. No red tape.</p>
+        <p>2. On premise. Sensitive data. "Private cloud." Large enterprise with heavy regulation. Government. </p>
+        <p>3. Hybrid. Legacy on-prem. Common with banks, investment firms.</p>
     </li>
 </ul>
 
 
-<h3>Cloud Concepts</h3>
-
-<ul>
-    <li><p><b>What is Cloud Computing?<b></p>
-        <br/>
-        <p>The practice of using a network of remote servers hosted
-        on the Internet to store, manage, and process data rather than a local server or a personal computer. Before, 
-        you'd own the server, the real-estate to house servers, etc.
-        With cloud, someone else maintains servers and you configure
-        the code.</p>
-    </li>
-    <li><p><b>Six Advantages and Benefits of Cloud Computing<b></p>
-        <br/>
-        <p></p>
-    </li>
-    <li><p><b>Types of Cloud Computing<b></p>
-        <br/>
-        <p></p>
-    </li>
-    <li><p><b>Cloud Computing Deployment Models<b></p>
-        <br/>
-        <p></p>
-    </li>
-</ul>
