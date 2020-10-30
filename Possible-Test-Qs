@@ -1,0 +1,29 @@
+<h2>Free Services</h2>
+
+CloudFormation is free but provisions services that do cost money
+IAM - Identity Access Management
+Auto Scaling
+Elastic Beanstalk
+Opsworks
+Amplify
+AppSync
+CodeStar 
+AWS Cost Explorer
+Organizations and Consolidated Billings
+
+<h2>Basic</h2>
+
+<h2>Developer</h2>
+No third-party support.
+General Guidance Response < 24 hours
+System Impaired <12 hours
+
+<h2>Business</h2>
+Production System Impaired < 4 hours
+Production System Down < 1 hour
+
+<h2>Enterprise</h2>
+Critcial Business Systems Down < 15 minutes
+Personal Conierge 
+Technical Account Manager
+
